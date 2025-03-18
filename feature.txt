@@ -1,1 +1,3 @@
 This is a feature branch.
+This lab has helped me understand how git and github are useful for software engineers and anyone who in general working on projects
+to help track changes in my code, allowing you to revert to previous versions if something goes wrong. It acts as a backup system, preventing data loss. I've learnt how to use git and the commands to push and pull. Git isn’t just a skill—it’s a necessity in modern software development. Mastering it will boost your efficiency, collaboration, and employability.
